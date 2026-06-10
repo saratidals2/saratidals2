@@ -4,7 +4,7 @@
 class Sara:
     def __init__(self):
         self.role = "Dev em formação"
-        self.learning = ["Python", "HTML", "CSS", "Git", "GitHub"]
+        self.learning = ["Python", "HTML", "CSS", "JavaScript", "C#"]
         self.status = "Sempre aprendendo"
         self.coffee = True
 
